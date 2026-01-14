@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
+- Add `tagged` without a block to create loggers with instance tags (positional and/or named)
+
 ## [4.17.0]
 
 - Correct `source_code_uri` URL
